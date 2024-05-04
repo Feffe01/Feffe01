@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Feffe01
+- 👀 I’m interested in too much code lenguages
+- 🌱 I’m currently learning Java, Javascript, React, React Native, Godot, 4D and C/C++
